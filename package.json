@@ -1,0 +1,20 @@
+{
+  "name": "autotrace",
+  "description": "A simple interface for converting raster images into vector graphics using AutoTrace.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Zac Barton"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zacbarton/node-autotrace"
+  },
+  "keywords": [
+  	"bitmap"
+  	, "image"
+  	, "raster"
+  	, "vector"
+  	, "vectorization"
+  	, "convert"
+  ]
+}
