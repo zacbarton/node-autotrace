@@ -1,7 +1,7 @@
 {
   "name": "autotrace",
   "description": "A simple interface for converting raster images into vector graphics using AutoTrace.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Zac Barton"
   },
