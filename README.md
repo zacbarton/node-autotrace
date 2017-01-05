@@ -117,6 +117,7 @@ The first argument can be either a file path or an options object. The only requ
 *Custom*
 
 * inputFile - path to the input file.
+* customBin - set a custom path to the AutoTrace binary.
 * binArgs - returns an array of the args to be passed to AutoTrace.
 * debugExec - returns the full exec + args as a string. Useful for debugging.
 

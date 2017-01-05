@@ -175,6 +175,11 @@ AutoTrace.prototype.binArgs = function() {
 	return [].concat(this.args, this.inputFile);
 };
 
+AutoTrace.prototype.customBin = function(path) {
+	this.bin = path;
+	return this;
+};
+
 AutoTrace.prototype.debugExec = function(value) {
 	if (!!value) console.log(this.bin, this.binArgs().join(' '));
 	return this;
